@@ -1,0 +1,1212 @@
+{
+  "t2": {
+    "per_patient": [
+      {
+        "patient_id": 227,
+        "label": 1,
+        "ig_share_in_WT": 0.038482315838336945,
+        "WT_volume_share": 0.037494001205911426,
+        "enrichment": 1.0263592734734148,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 297,
+        "label": 0,
+        "ig_share_in_WT": 0.039324212819337845,
+        "WT_volume_share": 0.0505067718035809,
+        "enrichment": 0.7785928780300939,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 188,
+        "label": 1,
+        "ig_share_in_WT": 0.11739560961723328,
+        "WT_volume_share": 0.3224489795918367,
+        "enrichment": 0.36407499184978426,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 320,
+        "label": 0,
+        "ig_share_in_WT": 0.017843693494796753,
+        "WT_volume_share": 0.02826154923313356,
+        "enrichment": 0.6313770468480053,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 101,
+        "label": 1,
+        "ig_share_in_WT": 0.051662709563970566,
+        "WT_volume_share": 0.05375138534498312,
+        "enrichment": 0.961141917207002,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 179,
+        "label": 1,
+        "ig_share_in_WT": 0.19324550032615662,
+        "WT_volume_share": 0.30057803468208094,
+        "enrichment": 0.6429129145444975,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 252,
+        "label": 1,
+        "ig_share_in_WT": 0.11834710091352463,
+        "WT_volume_share": 0.12455599537604652,
+        "enrichment": 0.9501517815764163,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 344,
+        "label": 1,
+        "ig_share_in_WT": 0.050228167325258255,
+        "WT_volume_share": 0.06357610410638798,
+        "enrichment": 0.7900478966187768,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 9,
+        "label": 1,
+        "ig_share_in_WT": 0.23780612647533417,
+        "WT_volume_share": 0.18524413052822342,
+        "enrichment": 1.2837444608687278,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 312,
+        "label": 0,
+        "ig_share_in_WT": 0.07479535788297653,
+        "WT_volume_share": 0.11249933953023326,
+        "enrichment": 0.6648515288590743,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 274,
+        "label": 0,
+        "ig_share_in_WT": 0.14513199031352997,
+        "WT_volume_share": 0.07104526939237683,
+        "enrichment": 2.0428100498843325,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 247,
+        "label": 1,
+        "ig_share_in_WT": 0.05940590426325798,
+        "WT_volume_share": 0.10387001451579457,
+        "enrichment": 0.5719254448900913,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 48,
+        "label": 1,
+        "ig_share_in_WT": 0.06631768494844437,
+        "WT_volume_share": 0.13620694335115768,
+        "enrichment": 0.486889165238681,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 52,
+        "label": 1,
+        "ig_share_in_WT": 0.037918295711278915,
+        "WT_volume_share": 0.10504389423329653,
+        "enrichment": 0.3609757234123818,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 311,
+        "label": 0,
+        "ig_share_in_WT": 0.1898687183856964,
+        "WT_volume_share": 0.49120014978468446,
+        "enrichment": 0.38654043258850396,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 131,
+        "label": 1,
+        "ig_share_in_WT": 0.30257076025009155,
+        "WT_volume_share": 0.643392250965703,
+        "enrichment": 0.47027417535022553,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 27,
+        "label": 1,
+        "ig_share_in_WT": 0.2194017767906189,
+        "WT_volume_share": 0.35566915636096486,
+        "enrichment": 0.6168704057299068,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 216,
+        "label": 1,
+        "ig_share_in_WT": 0.06507407873868942,
+        "WT_volume_share": 0.1536110664307544,
+        "enrichment": 0.42362884556628105,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 213,
+        "label": 1,
+        "ig_share_in_WT": 0.021942997351288795,
+        "WT_volume_share": 0.03890592766321272,
+        "enrichment": 0.5640013917846476,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 208,
+        "label": 1,
+        "ig_share_in_WT": 0.06299968808889389,
+        "WT_volume_share": 0.11459398609492552,
+        "enrichment": 0.5497643483328825,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 326,
+        "label": 0,
+        "ig_share_in_WT": 0.0626174658536911,
+        "WT_volume_share": 0.10306986558152241,
+        "enrichment": 0.6075244738100168,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 163,
+        "label": 1,
+        "ig_share_in_WT": 0.11347014456987381,
+        "WT_volume_share": 0.10110971319225234,
+        "enrichment": 1.1222477147472152,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 129,
+        "label": 1,
+        "ig_share_in_WT": 0.02514086291193962,
+        "WT_volume_share": 0.03888920309937221,
+        "enrichment": 0.6464741086890258,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 41,
+        "label": 1,
+        "ig_share_in_WT": 0.09685231000185013,
+        "WT_volume_share": 0.16534141225821486,
+        "enrichment": 0.5857716386866795,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 157,
+        "label": 1,
+        "ig_share_in_WT": 0.04865553602576256,
+        "WT_volume_share": 0.0984889302507837,
+        "enrichment": 0.49402035235204894,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 81,
+        "label": 1,
+        "ig_share_in_WT": 0.02900678850710392,
+        "WT_volume_share": 0.030232467885279623,
+        "enrichment": 0.9594581764285293,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 135,
+        "label": 1,
+        "ig_share_in_WT": 0.39283713698387146,
+        "WT_volume_share": 0.6229874482486693,
+        "enrichment": 0.6305699064845968,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 63,
+        "label": 1,
+        "ig_share_in_WT": 0.010051732882857323,
+        "WT_volume_share": 0.009140028277212811,
+        "enrichment": 1.0997485540408831,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 354,
+        "label": 1,
+        "ig_share_in_WT": 0.07253282517194748,
+        "WT_volume_share": 0.11179826580434832,
+        "enrichment": 0.648783097389312,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 214,
+        "label": 1,
+        "ig_share_in_WT": 0.1834593415260315,
+        "WT_volume_share": 0.16745593609097964,
+        "enrichment": 1.0955678598653054,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 42,
+        "label": 1,
+        "ig_share_in_WT": 0.04793431982398033,
+        "WT_volume_share": 0.075057080867402,
+        "enrichment": 0.6386382106709404,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 96,
+        "label": 1,
+        "ig_share_in_WT": 0.137012779712677,
+        "WT_volume_share": 0.2852713562853458,
+        "enrichment": 0.48028929891982636,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 280,
+        "label": 0,
+        "ig_share_in_WT": 0.02584235928952694,
+        "WT_volume_share": 0.027960546721531813,
+        "enrichment": 0.9242437047449453,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 103,
+        "label": 1,
+        "ig_share_in_WT": 0.03019096329808235,
+        "WT_volume_share": 0.055332579766175755,
+        "enrichment": 0.5456272493550383,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 99,
+        "label": 1,
+        "ig_share_in_WT": 0.004774439614266157,
+        "WT_volume_share": 0.004425884406715843,
+        "enrichment": 1.0787537979850224,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 333,
+        "label": 0,
+        "ig_share_in_WT": 0.07351391762495041,
+        "WT_volume_share": 0.11658030166695711,
+        "enrichment": 0.6305860987933625,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 337,
+        "label": 1,
+        "ig_share_in_WT": 0.08166949450969696,
+        "WT_volume_share": 0.23020188170772068,
+        "enrichment": 0.35477335764368384,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 172,
+        "label": 1,
+        "ig_share_in_WT": 0.02902562916278839,
+        "WT_volume_share": 0.012270553318588253,
+        "enrichment": 2.365470277241122,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 137,
+        "label": 1,
+        "ig_share_in_WT": 0.37059977650642395,
+        "WT_volume_share": 0.6137442982373811,
+        "enrichment": 0.6038341660690774,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 283,
+        "label": 0,
+        "ig_share_in_WT": 0.09709980338811874,
+        "WT_volume_share": 0.22580196034751615,
+        "enrichment": 0.4300219680920801,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 319,
+        "label": 0,
+        "ig_share_in_WT": 0.07576048374176025,
+        "WT_volume_share": 0.11366379092598101,
+        "enrichment": 0.6665313828080017,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 124,
+        "label": 1,
+        "ig_share_in_WT": 0.5688716769218445,
+        "WT_volume_share": 0.8272454035904795,
+        "enrichment": 0.6876697947816846,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 289,
+        "label": 0,
+        "ig_share_in_WT": 0.34073230624198914,
+        "WT_volume_share": 0.505174007242095,
+        "enrichment": 0.674485031606199,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 240,
+        "label": 1,
+        "ig_share_in_WT": 0.09373937547206879,
+        "WT_volume_share": 0.11623916721812973,
+        "enrichment": 0.8064353669650336,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 261,
+        "label": 0,
+        "ig_share_in_WT": 0.11787344515323639,
+        "WT_volume_share": 0.18878770433174577,
+        "enrichment": 0.6243703506531325,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 218,
+        "label": 1,
+        "ig_share_in_WT": 0.17506226897239685,
+        "WT_volume_share": 0.16137198244635229,
+        "enrichment": 1.0848368243199282,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 62,
+        "label": 1,
+        "ig_share_in_WT": 0.0683639869093895,
+        "WT_volume_share": 0.10863333113151463,
+        "enrichment": 0.6293094964196281,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 28,
+        "label": 1,
+        "ig_share_in_WT": 0.01066640391945839,
+        "WT_volume_share": 0.012855814745686932,
+        "enrichment": 0.8296948991278226,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 207,
+        "label": 1,
+        "ig_share_in_WT": 0.03832012787461281,
+        "WT_volume_share": 0.022055614372447768,
+        "enrichment": 1.7374318949258336,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 33,
+        "label": 1,
+        "ig_share_in_WT": 0.2243877351284027,
+        "WT_volume_share": 0.4950225612876215,
+        "enrichment": 0.45328789569567535,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 65,
+        "label": 1,
+        "ig_share_in_WT": 0.04593193531036377,
+        "WT_volume_share": 0.06721275734263556,
+        "enrichment": 0.6833812080574181,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 331,
+        "label": 0,
+        "ig_share_in_WT": 0.03917038068175316,
+        "WT_volume_share": 0.050160567047591496,
+        "enrichment": 0.7808998778623867,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 349,
+        "label": 1,
+        "ig_share_in_WT": 0.2879709005355835,
+        "WT_volume_share": 0.8623613086770981,
+        "enrichment": 0.3339330019072982,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 361,
+        "label": 1,
+        "ig_share_in_WT": 0.01865183375775814,
+        "WT_volume_share": 0.050430728987805144,
+        "enrichment": 0.36985056793247156,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 142,
+        "label": 1,
+        "ig_share_in_WT": 0.005243540741503239,
+        "WT_volume_share": 0.01100448168355417,
+        "enrichment": 0.4764913870376143,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 262,
+        "label": 0,
+        "ig_share_in_WT": 0.039252206683158875,
+        "WT_volume_share": 0.05514725869985321,
+        "enrichment": 0.7117707680826497,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 132,
+        "label": 1,
+        "ig_share_in_WT": 0.24575090408325195,
+        "WT_volume_share": 0.5291519899058935,
+        "enrichment": 0.46442403840622964,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 231,
+        "label": 1,
+        "ig_share_in_WT": 0.06242872774600983,
+        "WT_volume_share": 0.10978082963118489,
+        "enrichment": 0.5686669335181207,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 90,
+        "label": 1,
+        "ig_share_in_WT": 0.03220657259225845,
+        "WT_volume_share": 0.02518201826735783,
+        "enrichment": 1.2789512043491464,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 217,
+        "label": 1,
+        "ig_share_in_WT": 0.010342859663069248,
+        "WT_volume_share": 0.016925641880626875,
+        "enrichment": 0.6110763618540596,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 35,
+        "label": 1,
+        "ig_share_in_WT": 0.33584243059158325,
+        "WT_volume_share": 0.6087111586643484,
+        "enrichment": 0.5517270807519722,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 1,
+        "label": 1,
+        "ig_share_in_WT": 0.15801846981048584,
+        "WT_volume_share": 0.19113900356686042,
+        "enrichment": 0.8267201715027475,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 15,
+        "label": 1,
+        "ig_share_in_WT": 0.14390665292739868,
+        "WT_volume_share": 0.15329106385959995,
+        "enrichment": 0.9387804435767027,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 53,
+        "label": 1,
+        "ig_share_in_WT": 0.09297565370798111,
+        "WT_volume_share": 0.14809101426918628,
+        "enrichment": 0.6278277866228308,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 201,
+        "label": 1,
+        "ig_share_in_WT": 0.09498029947280884,
+        "WT_volume_share": 0.11243032699373404,
+        "enrichment": 0.8447925218367236,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 136,
+        "label": 1,
+        "ig_share_in_WT": 0.018956324085593224,
+        "WT_volume_share": 0.03872338866292917,
+        "enrichment": 0.48953164326889187,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 139,
+        "label": 1,
+        "ig_share_in_WT": 0.028047790750861168,
+        "WT_volume_share": 0.08499916409925724,
+        "enrichment": 0.3299772538677975,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 356,
+        "label": 1,
+        "ig_share_in_WT": 0.013936246745288372,
+        "WT_volume_share": 0.028731940340345017,
+        "enrichment": 0.48504370326964075,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 5,
+        "label": 1,
+        "ig_share_in_WT": 0.010078810155391693,
+        "WT_volume_share": 0.015334737818357713,
+        "enrichment": 0.657253503393372,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 281,
+        "label": 0,
+        "ig_share_in_WT": 0.29955941438674927,
+        "WT_volume_share": 0.49151202545404243,
+        "enrichment": 0.6094650768908794,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 359,
+        "label": 1,
+        "ig_share_in_WT": 0.03878379240632057,
+        "WT_volume_share": 0.07068573990771945,
+        "enrichment": 0.54867916013052,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 205,
+        "label": 1,
+        "ig_share_in_WT": 0.00896870531141758,
+        "WT_volume_share": 0.01289781804548266,
+        "enrichment": 0.6953660905352451,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 237,
+        "label": 1,
+        "ig_share_in_WT": 0.14543408155441284,
+        "WT_volume_share": 0.20185548412959756,
+        "enrichment": 0.7204861546408078,
+        "mask_channel_share": 0.0
+      },
+      {
+        "patient_id": 222,
+        "label": 1,
+        "ig_share_in_WT": 0.03189612552523613,
+        "WT_volume_share": 0.058705923088092395,
+        "enrichment": 0.543320398468659,
+        "mask_channel_share": 0.0
+      }
+    ],
+    "enrichment_median": 0.6309815728206839,
+    "enrichment_iqr": [
+      0.5438971111902537,
+      0.821648970368319
+    ],
+    "ig_share_in_WT_median": 0.0656958818435669,
+    "WT_volume_share_median": 0.10920708038134977,
+    "mask_channel_share_median": 0.0,
+    "frac_patients_enrichment_gt1": 0.14864864864864866
+  },
+  "m2d": {
+    "per_patient": [
+      {
+        "patient_id": 227,
+        "label": 1,
+        "ig_share_in_WT": 0.026262173429131508,
+        "WT_volume_share": 0.037494001205911426,
+        "enrichment": 0.7004366721013092,
+        "mask_channel_share": 0.16295383870601654
+      },
+      {
+        "patient_id": 297,
+        "label": 0,
+        "ig_share_in_WT": 0.06586586683988571,
+        "WT_volume_share": 0.0505067718035809,
+        "enrichment": 1.3040997174543585,
+        "mask_channel_share": 0.25807803869247437
+      },
+      {
+        "patient_id": 188,
+        "label": 1,
+        "ig_share_in_WT": 0.1579873114824295,
+        "WT_volume_share": 0.3224489795918367,
+        "enrichment": 0.4899606495325974,
+        "mask_channel_share": 0.7695607542991638
+      },
+      {
+        "patient_id": 320,
+        "label": 0,
+        "ig_share_in_WT": 0.011032151989638805,
+        "WT_volume_share": 0.02826154923313356,
+        "enrichment": 0.3903590669514487,
+        "mask_channel_share": 0.11737792193889618
+      },
+      {
+        "patient_id": 101,
+        "label": 1,
+        "ig_share_in_WT": 0.01866120658814907,
+        "WT_volume_share": 0.05375138534498312,
+        "enrichment": 0.3471762907696599,
+        "mask_channel_share": 0.304688036441803
+      },
+      {
+        "patient_id": 179,
+        "label": 1,
+        "ig_share_in_WT": 0.14141303300857544,
+        "WT_volume_share": 0.30057803468208094,
+        "enrichment": 0.4704702828923492,
+        "mask_channel_share": 0.6310216784477234
+      },
+      {
+        "patient_id": 252,
+        "label": 1,
+        "ig_share_in_WT": 0.08787905424833298,
+        "WT_volume_share": 0.12455599537604652,
+        "enrichment": 0.7055385329490734,
+        "mask_channel_share": 0.5297843813896179
+      },
+      {
+        "patient_id": 344,
+        "label": 1,
+        "ig_share_in_WT": 0.04374197497963905,
+        "WT_volume_share": 0.06357610410638798,
+        "enrichment": 0.6880254081903696,
+        "mask_channel_share": 0.579041063785553
+      },
+      {
+        "patient_id": 9,
+        "label": 1,
+        "ig_share_in_WT": 0.059753768146038055,
+        "WT_volume_share": 0.18524413052822342,
+        "enrichment": 0.3225676731312765,
+        "mask_channel_share": 0.6057485938072205
+      },
+      {
+        "patient_id": 312,
+        "label": 0,
+        "ig_share_in_WT": 0.07171007245779037,
+        "WT_volume_share": 0.11249933953023326,
+        "enrichment": 0.6374266085169457,
+        "mask_channel_share": 0.404835969209671
+      },
+      {
+        "patient_id": 274,
+        "label": 0,
+        "ig_share_in_WT": 0.09379199892282486,
+        "WT_volume_share": 0.07104526939237683,
+        "enrichment": 1.3201723312990714,
+        "mask_channel_share": 0.23611439764499664
+      },
+      {
+        "patient_id": 247,
+        "label": 1,
+        "ig_share_in_WT": 0.036336809396743774,
+        "WT_volume_share": 0.10387001451579457,
+        "enrichment": 0.34982963626012137,
+        "mask_channel_share": 0.4166381359100342
+      },
+      {
+        "patient_id": 48,
+        "label": 1,
+        "ig_share_in_WT": 0.047918956726789474,
+        "WT_volume_share": 0.13620694335115768,
+        "enrichment": 0.3518099411635492,
+        "mask_channel_share": 0.22956311702728271
+      },
+      {
+        "patient_id": 52,
+        "label": 1,
+        "ig_share_in_WT": 0.025833476334810257,
+        "WT_volume_share": 0.10504389423329653,
+        "enrichment": 0.24593029916798057,
+        "mask_channel_share": 0.5001479983329773
+      },
+      {
+        "patient_id": 311,
+        "label": 0,
+        "ig_share_in_WT": 0.4247239828109741,
+        "WT_volume_share": 0.49120014978468446,
+        "enrichment": 0.8646658251148447,
+        "mask_channel_share": 0.7571855187416077
+      },
+      {
+        "patient_id": 131,
+        "label": 1,
+        "ig_share_in_WT": 0.2872493863105774,
+        "WT_volume_share": 0.643392250965703,
+        "enrichment": 0.44646074906712424,
+        "mask_channel_share": 0.7481667399406433
+      },
+      {
+        "patient_id": 27,
+        "label": 1,
+        "ig_share_in_WT": 0.10525928437709808,
+        "WT_volume_share": 0.35566915636096486,
+        "enrichment": 0.2959471815148784,
+        "mask_channel_share": 0.662395179271698
+      },
+      {
+        "patient_id": 216,
+        "label": 1,
+        "ig_share_in_WT": 0.045743729919195175,
+        "WT_volume_share": 0.1536110664307544,
+        "enrichment": 0.29778928681234035,
+        "mask_channel_share": 0.48779478669166565
+      },
+      {
+        "patient_id": 213,
+        "label": 1,
+        "ig_share_in_WT": 0.01804109290242195,
+        "WT_volume_share": 0.03890592766321272,
+        "enrichment": 0.4637106473370867,
+        "mask_channel_share": 0.28236159682273865
+      },
+      {
+        "patient_id": 208,
+        "label": 1,
+        "ig_share_in_WT": 0.07414413243532181,
+        "WT_volume_share": 0.11459398609492552,
+        "enrichment": 0.6470159121025467,
+        "mask_channel_share": 0.5524317026138306
+      },
+      {
+        "patient_id": 326,
+        "label": 0,
+        "ig_share_in_WT": 0.06721379607915878,
+        "WT_volume_share": 0.10306986558152241,
+        "enrichment": 0.6521187904853176,
+        "mask_channel_share": 0.6013739705085754
+      },
+      {
+        "patient_id": 163,
+        "label": 1,
+        "ig_share_in_WT": 0.059652287513017654,
+        "WT_volume_share": 0.10110971319225234,
+        "enrichment": 0.589975835447218,
+        "mask_channel_share": 0.37704041600227356
+      },
+      {
+        "patient_id": 129,
+        "label": 1,
+        "ig_share_in_WT": 0.012031365185976028,
+        "WT_volume_share": 0.03888920309937221,
+        "enrichment": 0.3093754622567948,
+        "mask_channel_share": 0.29336369037628174
+      },
+      {
+        "patient_id": 41,
+        "label": 1,
+        "ig_share_in_WT": 0.044833600521087646,
+        "WT_volume_share": 0.16534141225821486,
+        "enrichment": 0.27115772091506957,
+        "mask_channel_share": 0.5732099413871765
+      },
+      {
+        "patient_id": 157,
+        "label": 1,
+        "ig_share_in_WT": 0.0465349480509758,
+        "WT_volume_share": 0.0984889302507837,
+        "enrichment": 0.47248912067590476,
+        "mask_channel_share": 0.5411649346351624
+      },
+      {
+        "patient_id": 81,
+        "label": 1,
+        "ig_share_in_WT": 0.011916481889784336,
+        "WT_volume_share": 0.030232467885279623,
+        "enrichment": 0.3941617315069533,
+        "mask_channel_share": 0.28822314739227295
+      },
+      {
+        "patient_id": 135,
+        "label": 1,
+        "ig_share_in_WT": 0.38762661814689636,
+        "WT_volume_share": 0.6229874482486693,
+        "enrichment": 0.6222061443388032,
+        "mask_channel_share": 0.8543452024459839
+      },
+      {
+        "patient_id": 63,
+        "label": 1,
+        "ig_share_in_WT": 0.0059902602806687355,
+        "WT_volume_share": 0.009140028277212811,
+        "enrichment": 0.6553874997244578,
+        "mask_channel_share": 0.09357722103595734
+      },
+      {
+        "patient_id": 354,
+        "label": 1,
+        "ig_share_in_WT": 0.055586449801921844,
+        "WT_volume_share": 0.11179826580434832,
+        "enrichment": 0.49720314891738365,
+        "mask_channel_share": 0.5117552280426025
+      },
+      {
+        "patient_id": 214,
+        "label": 1,
+        "ig_share_in_WT": 0.06636741012334824,
+        "WT_volume_share": 0.16745593609097964,
+        "enrichment": 0.3963276051730657,
+        "mask_channel_share": 0.5956816077232361
+      },
+      {
+        "patient_id": 42,
+        "label": 1,
+        "ig_share_in_WT": 0.035324037075042725,
+        "WT_volume_share": 0.075057080867402,
+        "enrichment": 0.470628975525661,
+        "mask_channel_share": 0.4682419002056122
+      },
+      {
+        "patient_id": 96,
+        "label": 1,
+        "ig_share_in_WT": 0.08743007481098175,
+        "WT_volume_share": 0.2852713562853458,
+        "enrichment": 0.3064803839724532,
+        "mask_channel_share": 0.7010880708694458
+      },
+      {
+        "patient_id": 280,
+        "label": 0,
+        "ig_share_in_WT": 0.012372060678899288,
+        "WT_volume_share": 0.027960546721531813,
+        "enrichment": 0.4424827883973152,
+        "mask_channel_share": 0.17958253622055054
+      },
+      {
+        "patient_id": 103,
+        "label": 1,
+        "ig_share_in_WT": 0.025572841987013817,
+        "WT_volume_share": 0.055332579766175755,
+        "enrichment": 0.46216608903140405,
+        "mask_channel_share": 0.4490082859992981
+      },
+      {
+        "patient_id": 99,
+        "label": 1,
+        "ig_share_in_WT": 0.0034673602785915136,
+        "WT_volume_share": 0.004425884406715843,
+        "enrichment": 0.783427663078301,
+        "mask_channel_share": 0.048050813376903534
+      },
+      {
+        "patient_id": 333,
+        "label": 0,
+        "ig_share_in_WT": 0.09686636924743652,
+        "WT_volume_share": 0.11658030166695711,
+        "enrichment": 0.8308982552072165,
+        "mask_channel_share": 0.6457045674324036
+      },
+      {
+        "patient_id": 337,
+        "label": 1,
+        "ig_share_in_WT": 0.06910014152526855,
+        "WT_volume_share": 0.23020188170772068,
+        "enrichment": 0.30017192306317647,
+        "mask_channel_share": 0.6529859304428101
+      },
+      {
+        "patient_id": 172,
+        "label": 1,
+        "ig_share_in_WT": 0.03575766086578369,
+        "WT_volume_share": 0.012270553318588253,
+        "enrichment": 2.9141033769603117,
+        "mask_channel_share": 0.22991186380386353
+      },
+      {
+        "patient_id": 137,
+        "label": 1,
+        "ig_share_in_WT": 0.26959022879600525,
+        "WT_volume_share": 0.6137442982373811,
+        "enrichment": 0.4392549626445494,
+        "mask_channel_share": 0.813271701335907
+      },
+      {
+        "patient_id": 283,
+        "label": 0,
+        "ig_share_in_WT": 0.20138034224510193,
+        "WT_volume_share": 0.22580196034751615,
+        "enrichment": 0.8918449686365856,
+        "mask_channel_share": 0.6504495143890381
+      },
+      {
+        "patient_id": 319,
+        "label": 0,
+        "ig_share_in_WT": 0.08074642717838287,
+        "WT_volume_share": 0.11366379092598101,
+        "enrichment": 0.7103970976144491,
+        "mask_channel_share": 0.6399776935577393
+      },
+      {
+        "patient_id": 124,
+        "label": 1,
+        "ig_share_in_WT": 0.5492218136787415,
+        "WT_volume_share": 0.8272454035904795,
+        "enrichment": 0.6639164282984218,
+        "mask_channel_share": 0.8977949619293213
+      },
+      {
+        "patient_id": 289,
+        "label": 0,
+        "ig_share_in_WT": 0.2675202190876007,
+        "WT_volume_share": 0.505174007242095,
+        "enrichment": 0.5295605380560825,
+        "mask_channel_share": 0.8386600613594055
+      },
+      {
+        "patient_id": 240,
+        "label": 1,
+        "ig_share_in_WT": 0.06701718270778656,
+        "WT_volume_share": 0.11623916721812973,
+        "enrichment": 0.5765456197862143,
+        "mask_channel_share": 0.5334803462028503
+      },
+      {
+        "patient_id": 261,
+        "label": 0,
+        "ig_share_in_WT": 0.12131290137767792,
+        "WT_volume_share": 0.18878770433174577,
+        "enrichment": 0.6425889959647962,
+        "mask_channel_share": 0.7273988127708435
+      },
+      {
+        "patient_id": 218,
+        "label": 1,
+        "ig_share_in_WT": 0.031851787120103836,
+        "WT_volume_share": 0.16137198244635229,
+        "enrichment": 0.19738114781167482,
+        "mask_channel_share": 0.4681219458580017
+      },
+      {
+        "patient_id": 62,
+        "label": 1,
+        "ig_share_in_WT": 0.03927994892001152,
+        "WT_volume_share": 0.10863333113151463,
+        "enrichment": 0.36158284488299913,
+        "mask_channel_share": 0.5481019616127014
+      },
+      {
+        "patient_id": 28,
+        "label": 1,
+        "ig_share_in_WT": 0.007716526743024588,
+        "WT_volume_share": 0.012855814745686932,
+        "enrichment": 0.6002363051329136,
+        "mask_channel_share": 0.14347432553768158
+      },
+      {
+        "patient_id": 207,
+        "label": 1,
+        "ig_share_in_WT": 0.07033064216375351,
+        "WT_volume_share": 0.022055614372447768,
+        "enrichment": 3.188786354934774,
+        "mask_channel_share": 0.39818713068962097
+      },
+      {
+        "patient_id": 33,
+        "label": 1,
+        "ig_share_in_WT": 0.14459826052188873,
+        "WT_volume_share": 0.4950225612876215,
+        "enrichment": 0.2921043843849798,
+        "mask_channel_share": 0.7538710236549377
+      },
+      {
+        "patient_id": 65,
+        "label": 1,
+        "ig_share_in_WT": 0.025739401578903198,
+        "WT_volume_share": 0.06721275734263556,
+        "enrichment": 0.3829541086568811,
+        "mask_channel_share": 0.4222376048564911
+      },
+      {
+        "patient_id": 331,
+        "label": 0,
+        "ig_share_in_WT": 0.018520880490541458,
+        "WT_volume_share": 0.050160567047591496,
+        "enrichment": 0.3692318803453703,
+        "mask_channel_share": 0.3697817325592041
+      },
+      {
+        "patient_id": 349,
+        "label": 1,
+        "ig_share_in_WT": 0.3557044565677643,
+        "WT_volume_share": 0.8623613086770981,
+        "enrichment": 0.41247729111712905,
+        "mask_channel_share": 0.8434017300605774
+      },
+      {
+        "patient_id": 361,
+        "label": 1,
+        "ig_share_in_WT": 0.024742623791098595,
+        "WT_volume_share": 0.050430728987805144,
+        "enrichment": 0.4906259395257023,
+        "mask_channel_share": 0.4401392638683319
+      },
+      {
+        "patient_id": 142,
+        "label": 1,
+        "ig_share_in_WT": 0.013341204263269901,
+        "WT_volume_share": 0.01100448168355417,
+        "enrichment": 1.2123428113834331,
+        "mask_channel_share": 0.285051554441452
+      },
+      {
+        "patient_id": 262,
+        "label": 0,
+        "ig_share_in_WT": 0.048180483281612396,
+        "WT_volume_share": 0.05514725869985321,
+        "enrichment": 0.8736695969416695,
+        "mask_channel_share": 0.5903882384300232
+      },
+      {
+        "patient_id": 132,
+        "label": 1,
+        "ig_share_in_WT": 0.20855621993541718,
+        "WT_volume_share": 0.5291519899058935,
+        "enrichment": 0.3941329219457599,
+        "mask_channel_share": 0.7854704856872559
+      },
+      {
+        "patient_id": 231,
+        "label": 1,
+        "ig_share_in_WT": 0.030612405389547348,
+        "WT_volume_share": 0.10978082963118489,
+        "enrichment": 0.27885019171482545,
+        "mask_channel_share": 0.48193836212158203
+      },
+      {
+        "patient_id": 90,
+        "label": 1,
+        "ig_share_in_WT": 0.023977499455213547,
+        "WT_volume_share": 0.02518201826735783,
+        "enrichment": 0.9521675030051977,
+        "mask_channel_share": 0.3220209777355194
+      },
+      {
+        "patient_id": 217,
+        "label": 1,
+        "ig_share_in_WT": 0.007400970906019211,
+        "WT_volume_share": 0.016925641880626875,
+        "enrichment": 0.43726382478014697,
+        "mask_channel_share": 0.1795496791601181
+      },
+      {
+        "patient_id": 35,
+        "label": 1,
+        "ig_share_in_WT": 0.21459318697452545,
+        "WT_volume_share": 0.6087111586643484,
+        "enrichment": 0.35253696916783894,
+        "mask_channel_share": 0.8074929118156433
+      },
+      {
+        "patient_id": 1,
+        "label": 1,
+        "ig_share_in_WT": 0.09007125347852707,
+        "WT_volume_share": 0.19113900356686042,
+        "enrichment": 0.4712342943995149,
+        "mask_channel_share": 0.6766417622566223
+      },
+      {
+        "patient_id": 15,
+        "label": 1,
+        "ig_share_in_WT": 0.04584532603621483,
+        "WT_volume_share": 0.15329106385959995,
+        "enrichment": 0.2990737025473691,
+        "mask_channel_share": 0.5551837682723999
+      },
+      {
+        "patient_id": 53,
+        "label": 1,
+        "ig_share_in_WT": 0.06355427205562592,
+        "WT_volume_share": 0.14809101426918628,
+        "enrichment": 0.4291568422893885,
+        "mask_channel_share": 0.6060060858726501
+      },
+      {
+        "patient_id": 201,
+        "label": 1,
+        "ig_share_in_WT": 0.08060040324926376,
+        "WT_volume_share": 0.11243032699373404,
+        "enrichment": 0.7168920112901467,
+        "mask_channel_share": 0.5907085537910461
+      },
+      {
+        "patient_id": 136,
+        "label": 1,
+        "ig_share_in_WT": 0.03854762390255928,
+        "WT_volume_share": 0.03872338866292917,
+        "enrichment": 0.9954610180711377,
+        "mask_channel_share": 0.3371454179286957
+      },
+      {
+        "patient_id": 139,
+        "label": 1,
+        "ig_share_in_WT": 0.039539627730846405,
+        "WT_volume_share": 0.08499916409925724,
+        "enrichment": 0.46517666555178205,
+        "mask_channel_share": 0.40950310230255127
+      },
+      {
+        "patient_id": 356,
+        "label": 1,
+        "ig_share_in_WT": 0.014614169485867023,
+        "WT_volume_share": 0.028731940340345017,
+        "enrichment": 0.5086384460028047,
+        "mask_channel_share": 0.2595023810863495
+      },
+      {
+        "patient_id": 5,
+        "label": 1,
+        "ig_share_in_WT": 0.010381237603724003,
+        "WT_volume_share": 0.015334737818357713,
+        "enrichment": 0.6769752261834767,
+        "mask_channel_share": 0.09388602524995804
+      },
+      {
+        "patient_id": 281,
+        "label": 0,
+        "ig_share_in_WT": 0.2653385102748871,
+        "WT_volume_share": 0.49151202545404243,
+        "enrichment": 0.5398413396482749,
+        "mask_channel_share": 0.8254202604293823
+      },
+      {
+        "patient_id": 359,
+        "label": 1,
+        "ig_share_in_WT": 0.023140346631407738,
+        "WT_volume_share": 0.07068573990771945,
+        "enrichment": 0.3273693769251081,
+        "mask_channel_share": 0.5023831129074097
+      },
+      {
+        "patient_id": 205,
+        "label": 1,
+        "ig_share_in_WT": 0.010895853862166405,
+        "WT_volume_share": 0.01289781804548266,
+        "enrichment": 0.844782723938162,
+        "mask_channel_share": 0.16612422466278076
+      },
+      {
+        "patient_id": 237,
+        "label": 1,
+        "ig_share_in_WT": 0.1349162757396698,
+        "WT_volume_share": 0.20185548412959756,
+        "enrichment": 0.6683805313527222,
+        "mask_channel_share": 0.779595136642456
+      },
+      {
+        "patient_id": 222,
+        "label": 1,
+        "ig_share_in_WT": 0.04182763025164604,
+        "WT_volume_share": 0.058705923088092395,
+        "enrichment": 0.7124942092839291,
+        "mask_channel_share": 0.48809048533439636
+      }
+    ],
+    "enrichment_median": 0.4812248851042511,
+    "enrichment_iqr": [
+      0.372662437423248,
+      0.6852628626886463
+    ],
+    "ig_share_in_WT_median": 0.048049720004200935,
+    "WT_volume_share_median": 0.10920708038134977,
+    "mask_channel_share_median": 0.5070691704750061,
+    "frac_patients_enrichment_gt1": 0.06756756756756757
+  }
+}

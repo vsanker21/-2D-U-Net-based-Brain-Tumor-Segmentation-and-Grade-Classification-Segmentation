@@ -1,0 +1,15 @@
+{
+  "channel_names": {
+    "0": "T2"
+  },
+  "labels": {
+    "background": 0,
+    "NCR": 1,
+    "ED": 2,
+    "ET": 3
+  },
+  "numTraining": 295,
+  "file_ending": ".nii.gz",
+  "name": "BraTS20trueT2",
+  "description": "BraTS2020 T2-weighted channel only"
+}

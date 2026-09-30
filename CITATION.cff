@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the archived version."
+title: "Tumor-mask guidance for T2-only glioma grade classification on BraTS2020: code and per-patient results"
+version: "2.0.0"
+doi: "10.5281/zenodo.23050626"
+date-released: "2026-09-30"
+license: CC-BY-4.0
+repository-code: "https://github.com/vsanker21/-2D-U-Net-based-Brain-Tumor-Segmentation-and-Grade-Classification-Segmentation"
+authors:
+  - family-names: Sanker
+    given-names: Vivek
+    affiliation: Stanford University
+  - family-names: Mahesh
+    given-names: Dhanya
+    affiliation: Geisel School of Medicine
+  - family-names: Li
+    given-names: Zhikai
+    affiliation: University of Cambridge
+  - family-names: Thaller
+    given-names: Alexander
+    affiliation: Medical University of Graz
+  - family-names: Heesen
+    given-names: Philip
+    affiliation: University of Zurich
+keywords:
+  - glioma
+  - BraTS2020
+  - T2-weighted MRI
+  - grade classification
+  - nnU-Net
+  - out-of-fold prediction

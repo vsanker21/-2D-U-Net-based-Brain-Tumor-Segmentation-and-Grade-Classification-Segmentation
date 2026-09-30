@@ -1,0 +1,1852 @@
+{
+  "summary": {
+    "n": 368,
+    "voxel_agreement_min": 1.0,
+    "voxel_agreement_mean": 1.0,
+    "wt_dice_min": 1.0,
+    "wt_dice_mean": 1.0,
+    "n_identical": 368
+  },
+  "per_patient": [
+    {
+      "file": "BraTS20_Training_001_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_002_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_003_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_004_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_005_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_006_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_007_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_008_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_009_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_010_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_011_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_012_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_013_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_014_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_015_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_016_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_017_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_018_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_019_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_020_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_021_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_022_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_023_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_024_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_025_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_026_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_027_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_028_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_029_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_030_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_031_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_032_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_033_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_034_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_035_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_036_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_037_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_038_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_039_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_040_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_041_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_042_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_043_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_044_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_045_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_046_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_047_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_048_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_049_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_050_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_051_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_052_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_053_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_054_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_055_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_056_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_057_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_058_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_059_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_060_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_061_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_062_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_063_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_064_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_065_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_066_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_067_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_068_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_069_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_070_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_071_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_072_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_073_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_074_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_075_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_076_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_077_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_078_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_079_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_080_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_081_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_082_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_083_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_084_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_085_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_086_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_087_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_088_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_089_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_090_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_091_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_092_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_093_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_094_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_095_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_096_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_097_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_098_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_099_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_100_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_101_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_102_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_103_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_104_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_105_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_106_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_107_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_108_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_109_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_110_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_111_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_112_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_113_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_114_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_115_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_116_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_117_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_118_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_119_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_120_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_121_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_122_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_123_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_124_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_125_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_126_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_127_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_128_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_129_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_130_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_131_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_132_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_133_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_134_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_135_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_136_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_137_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_138_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_139_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_140_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_141_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_142_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_143_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_144_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_145_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_146_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_147_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_148_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_149_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_150_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_151_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_152_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_153_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_154_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_155_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_156_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_157_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_158_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_159_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_160_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_161_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_162_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_163_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_164_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_165_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_166_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_167_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_168_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_169_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_170_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_171_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_172_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_173_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_174_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_175_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_176_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_177_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_178_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_179_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_180_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_181_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_182_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_183_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_184_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_185_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_186_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_187_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_188_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_189_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_190_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_191_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_192_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_193_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_194_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_195_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_196_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_197_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_198_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_199_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_200_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_201_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_202_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_203_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_204_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_205_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_206_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_207_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_208_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_209_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_210_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_211_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_212_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_213_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_214_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_215_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_216_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_217_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_218_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_219_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_220_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_221_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_222_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_223_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_224_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_225_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_226_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_227_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_228_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_229_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_230_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_231_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_232_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_233_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_234_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_235_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_236_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_237_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_238_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_239_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_240_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_241_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_242_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_243_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_244_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_245_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_246_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_247_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_248_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_249_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_250_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_251_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_252_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_253_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_254_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_255_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_256_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_257_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_258_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_259_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_260_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_261_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_262_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_263_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_264_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_265_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_266_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_267_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_268_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_269_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_270_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_271_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_272_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_273_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_274_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_275_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_276_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_277_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_278_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_279_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_280_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_281_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_282_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_283_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_284_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_285_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_286_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_287_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_288_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_289_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_290_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_291_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_292_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_293_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_294_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_295_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_296_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_297_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_298_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_299_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_300_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_301_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_302_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_303_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_304_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_305_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_306_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_307_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_308_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_309_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_310_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_311_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_312_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_313_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_314_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_315_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_316_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_317_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_318_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_319_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_320_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_321_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_322_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_323_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_324_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_325_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_326_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_327_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_328_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_329_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_330_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_331_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_332_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_333_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_334_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_335_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_336_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_337_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_338_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_339_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_340_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_341_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_342_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_343_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_344_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_345_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_346_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_347_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_348_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_349_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_350_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_351_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_352_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_353_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_354_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_356_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_357_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_358_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_359_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_360_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_361_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_362_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_363_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_364_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_365_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_366_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_367_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_368_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    },
+    {
+      "file": "BraTS20_Training_369_seg.nii.gz",
+      "voxel_agreement": 1.0,
+      "wt_dice": 1.0
+    }
+  ]
+}

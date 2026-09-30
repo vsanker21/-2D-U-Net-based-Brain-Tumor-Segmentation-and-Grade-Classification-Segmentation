@@ -1,0 +1,24 @@
+{
+  "gpu": "NVIDIA RTX 5000 Ada Generation",
+  "read_and_scale": {
+    "mean_s": 0.16074054215201422,
+    "sd_s": 0.010440530806229515,
+    "n": 19
+  },
+  "unet2d_single_model": {
+    "mean_s": 0.4469777946850579,
+    "sd_s": 0.02606449150327539,
+    "n": 19
+  },
+  "unet2d_5fold_ensemble": {
+    "mean_s": 1.281535194819107,
+    "sd_s": 0.030326909784964617,
+    "n": 19
+  },
+  "resample_plus_3dcnn": {
+    "mean_s": 0.1495927104383315,
+    "sd_s": 0.006547739422386507,
+    "n": 19
+  },
+  "note": "inference only; excludes DICOM conversion, registration, skull stripping and reporting"
+}
